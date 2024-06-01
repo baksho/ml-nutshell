@@ -1,2 +1,2 @@
 # ml_nutshell
-Python implementation code and mathematical understanding of popular ML models in a nutshell.
+Python implementation codes and mathematical understanding of popular ML models in a nutshell.
