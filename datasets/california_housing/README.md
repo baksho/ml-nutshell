@@ -26,7 +26,7 @@ The data pertains to the houses found in a given California district and some su
 
 Here, the dependent variable is `median_house_value`. The dataset contains 20640 data about housing in California from 1990 database.
 
-### Example usage using python Pandas
+##### Example usage using python Pandas
 
     >>> cal_housing = pd.read_csv(datapath + "housing.csv")
     ...
