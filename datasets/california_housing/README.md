@@ -1,6 +1,6 @@
 # California House Prices
-## Median house prices for California districts derived from the 1990 census.
-### Source
+### Median house prices for California districts derived from the 1990 census.
+#### Source
 This dataset was downloaded from the [Kaggle](https://www.kaggle.com/datasets/camnugent/california-housing-prices?resource=download). The dataset was originally featured in the paper: _Pace, R. Kelley, and Ronald Barry. "Sparse spatial autoregressions." Statistics & Probability Letters 33.3 (1997): 291-297._
 
 ### Data description
