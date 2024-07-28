@@ -1,5 +1,5 @@
 # ml_nutshell
-Python implementation codes and mathematical understanding of popular ML models and concepts in a nutshell.
+This repository contains python implementation codes of most common machine learning models and fundamental mathematical concepts behind them.
 
 ## Content
 1. 6_risks.pdf $\rightarrow$ The theory behind Empirical Risk and True Risk and the relation between them
