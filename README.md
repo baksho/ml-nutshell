@@ -12,4 +12,4 @@ This repository contains python implementation codes of most common machine lear
 ## Books
 1. Learning Theory from First Principles by Francis Bach
 2. Hands-on ML with Scikit-Learn, Keras & TensorFlow by Aurélien Géron
-3. Mathematics for Machine Learning by Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong
+3. *Mathematics for Machine Learning* by Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong (**Note**: This version is free to view and download for personal use only. Not for re-distribution, re-sale, or use in derivative works. ©by M. P. Deisenroth, A. A. Faisal, and C. S. Ong, 2024. https://mml-book.com.)
