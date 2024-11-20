@@ -1,4 +1,4 @@
-# ml_nutshell
+# ml-nutshell
 This repository contains python implementation codes of most common machine learning models and fundamental mathematical concepts behind them.
 
 ## Content
